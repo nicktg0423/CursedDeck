@@ -1,0 +1,2 @@
+# CursedDeck
+CursedDeck for Balatro!
