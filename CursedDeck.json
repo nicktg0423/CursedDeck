@@ -1,0 +1,15 @@
+{
+    "id": "CursedDeck",
+    "name": "CursedDeck",
+    "author": ["NickTG"],
+    "description": "Adds the Cursed Deck: every unambiguous downside from the vanilla decks on one deck. -1 hand every round, -1 Joker slot, -1 consumable slot, no Interest, and X2 base Blind size. Built for the all-downsides challenge run.",
+    "prefix": "curseddeck",
+    "main_file": "CursedDeck.lua",
+    "priority": 0,
+    "badge_colour": "5C2E91",
+    "display_name": "CursedDeck",
+    "version": "1.0.0",
+    "dependencies": [
+        "Steamodded (>=1.0.0~BETA-0400a)"
+    ]
+}
