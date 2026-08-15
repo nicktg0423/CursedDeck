@@ -30,10 +30,6 @@ and patches nothing.
 
 ## Compatibility
 
-Do **not** run this alongside the NickTGMods pack, which bundles the same deck.
-Both will load and you will get two Cursed Deck entries in deck select under
-different keys.
-
 Nothing here hooks or wraps a vanilla function, so conflicts with other mods are
 unlikely.
 
